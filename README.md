@@ -3,8 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Bac-end/Python developer
 ------------------------
+I've been learning Python for the past 3 years and have gained a lot of experience through various projects.
 
-I'have been learning python for 3 years, i got a lot of expirience with python, with the projects that gave me motivation to go aheah. I discovered a lot of thing about the ecosystem of programming. Now i'm not working only with python but with others programming.
+Today, I'm not only working with Python but also exploring other technologies and programming paradigms.
 
 * 🌍  I'm based in France
 * 🧠  I'm learning NoSQL database and trying to build my website using microservice architecture. It would include RedisDB, B3, Kafka
