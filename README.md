@@ -8,7 +8,7 @@ I've been learning Python for the past 3 years and have gained a lot of experien
 Today, I'm not only working with Python but also exploring other technologies and programming paradigms.
 
 * 🌍  I'm based in France
-* 🧠  I'm learning NoSQL database and trying to build my website using microservice architecture. It would include RedisDB, B3, Kafka
+* 🧠  Currently learning NoSQL databases and building a website using microservice architecture, including tools like RedisDB, B3, and Kafka
 
 ### Skills
 
