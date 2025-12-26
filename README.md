@@ -3,12 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Bac-end/Python developer
 ------------------------
-I've been learning Python for the past 3 years and have gained a lot of experience through various projects.
+I'm a **Junior Developer** currently studying **BUT Informatique** at **Université Paris Rives de Seine**.  
 
-Today, I'm not only working with Python but also exploring other technologies and programming paradigms.
-
-* 🌍  I'm based in France
-* 🧠  Currently learning NoSQL databases and building a website using microservice architecture, including tools like RedisDB, B3, and Kafka
+I enjoy building **web applications**, **crypto apps**, and **exploring new things**
 
 ### Skills
 
