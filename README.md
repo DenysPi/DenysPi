@@ -86,12 +86,12 @@ Looking for a **3–4 month internship** from **April 2027**
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DenysPi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DenysPi&show_icons=true&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DenysPi&show_icons=true&hide_rank=true&hide=stars,contribs&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DenysPi&show_icons=true&hide_rank=true&hide=stars,contribs&theme=default&hide_border=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysPi&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysPi&layout=compact&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysPi&layout=compact&hide=html,css&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysPi&layout=compact&hide=html,css&theme=default&hide_border=true" />
 </picture>
 
 </div>
